@@ -47,7 +47,7 @@ p{
   background-color: #72A0C1;
 }
 
-.button1{
+#button1{
   background-color: #800020;
   border-radius: 8px;
   border-style: none;
@@ -74,11 +74,11 @@ p{
   touch-action: manipulation;
 }
 
-.button1:hover,
-.button1:focus {
+#button1:hover,
+#button1:focus {
   background-color: #D2042D;
 }
-.button2{
+#button2{
   background-color: #023020;
   border-radius: 8px;
   border-style: none;
@@ -105,12 +105,12 @@ p{
   touch-action: manipulation;
 }
 
-.button2:hover,
-.button2:focus {
+#button2:hover,
+#button2:focus {
   background-color: #AFE1AF;
 }
 
-.button3{
+#button3{
   background-color: #FFEA00;
   border-radius: 8px;
   border-style: none;
@@ -137,8 +137,8 @@ p{
   touch-action: manipulation;
 }
 
-.button3:hover,
-.button3:focus {
+#button3:hover,
+#button3:focus {
   background-color: #FFFF8F;
 }
 
