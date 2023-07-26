@@ -15,7 +15,7 @@ p{
   
  } 
 
-#button{
+.button{
   background-color: #00308F;
   border-radius: 8px;
   border-style: none;
@@ -42,12 +42,12 @@ p{
   touch-action: manipulation;
 }
 
-#button:hover,
-#button:focus {
+.button:hover,
+.button:focus {
   background-color: #72A0C1;
 }
 
-#button1{
+.button1{
   background-color: #800020;
   border-radius: 8px;
   border-style: none;
@@ -74,8 +74,8 @@ p{
   touch-action: manipulation;
 }
 
-#button1:hover,
-#button1:focus {
+.button1:hover,
+.button1:focus {
   background-color: #D2042D;
 }
 #button2{
