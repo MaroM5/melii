@@ -141,5 +141,7 @@ p{
 #button3:focus {
   background-color: #FFFF8F;
 }
-
+*{
+  text-align:middle;
+}
 
