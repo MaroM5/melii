@@ -144,4 +144,8 @@ p{
 *{
   text-align:middle;
 }
+form{
+  display:inline;
+}
+
 
